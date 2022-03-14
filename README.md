@@ -6,11 +6,11 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/otaviofsantos#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/otaviofsantos#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/otaviofsantos#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/otaviofsantos#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/otavio_fsantos#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/otavio_fsantos#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/otavio_fsantos/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/otavio_fsantos/#gh-dark-mode-only)
 
 <br />
 
