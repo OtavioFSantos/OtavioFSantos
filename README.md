@@ -1,6 +1,6 @@
 ## Hello there, I'm Otávio
 
-- 🌱 I’m currently learning everything;
+- 🌱 I’m currently working on a twitter clone;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
 - 🥅 2022 Goals: Learn more about React, Next, Postgre, and Prisma.
 
