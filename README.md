@@ -4,7 +4,7 @@
 - ⚡ Fact about me: I love to draw and I'm a cat person;
 - 🥅 2022 Goals: Learn more about Next, and Prisma.
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=otaviofs01&count=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=otaviofs01&count=1&width=600)
 
 ### Languages and Tools:
 
