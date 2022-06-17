@@ -31,6 +31,5 @@
 </div>
 
 <br />
-<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OtavioFSantos&theme=onedark)](https://github.com/OtavioFSantos/github-profile-trophy)
