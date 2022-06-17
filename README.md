@@ -4,8 +4,6 @@
 - ⚡ Fact about me: I love to draw and I'm a cat person;
 - 🥅 2022 Goals: Learn more about Next, and Prisma.
 
-<br />
-
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=otaviofs01&count=1)
 
 ### Languages and Tools:
@@ -27,8 +25,7 @@
 <br />
 <br />
 <br />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioFSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioFSantos&layout=compact&langs_count=7&theme=dark"/>
-
-<br />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioFSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioFSantos&layout=compact&langs_count=7&theme=dark"/>
+</div>
