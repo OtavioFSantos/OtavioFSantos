@@ -30,5 +30,6 @@
 </div>
 
 <br />
-
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=OtavioFSantos&theme=alduin)](https://github.com/OtavioFSantos/github-profile-trophy)
+</p>
