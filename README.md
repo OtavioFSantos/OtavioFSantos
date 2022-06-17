@@ -30,4 +30,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioFSantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OtavioFSantos)](https://github.com/OtavioFSantos/github-profile-trophy)
+<br />
+<br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=OtavioFSantos&theme=onedark)](https://github.com/OtavioFSantos/github-profile-trophy)
