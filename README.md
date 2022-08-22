@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently going insane with 7 classes + tutoring in college;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
-- 🥅 2022 Goals: Learn more about Next, and Prisma.
+- 🥅 2022 Goals: Learn more about Next and Prisma.
 
 
 ### Languages and Tools:
