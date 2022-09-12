@@ -28,5 +28,5 @@
 <br />
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioFSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime/?username=OtavioFSantos&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=OtavioFSantos&layout=compact&theme=dark"/>
 </div>
