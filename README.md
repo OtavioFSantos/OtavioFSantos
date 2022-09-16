@@ -21,11 +21,3 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" style="padding-right:10px;" />
-
-
-<br />
-<br />
-<br />
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioFSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
