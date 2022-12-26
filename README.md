@@ -1,8 +1,8 @@
 ## Hello there, I'm Otávio
 
-- 🌱 I'm currently going insane with 7 classes in college;
+- 🌱 I'm currently on vacation;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
-- 🥅 2022 Goals: Learn more about Next and Prisma.
+- 🥅 2023 Goals: Get a job and keep learning more.
 
 
 ### Languages and Tools:
