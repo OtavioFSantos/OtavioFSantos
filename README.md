@@ -1,6 +1,6 @@
 ## Hello there, I'm Otávio
 
-- 🌱 I'm currently on vacation;
+- 🌱 I'm currently studying Vue and Node;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
 - 🥅 2023 Goals: Get a job and keep learning more.
 
