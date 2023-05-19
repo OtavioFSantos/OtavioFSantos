@@ -1,8 +1,8 @@
 ## Hello there, I'm Otávio
 
-- 🌱 I'm currently studying Vue and Node;
+- 🌱 I'm currently studying Flutter;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
-- 🥅 2023 Goals: Get a job and keep learning more.
+- 🥅 2023 Goals: Keep learning more.
 
 
 ### Languages and Tools:
