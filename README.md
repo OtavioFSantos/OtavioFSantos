@@ -1,8 +1,8 @@
 ## Hello there, I'm Otávio
 
-- 🌱 I'm currently studying Flutter;
+- 🌱 I am currently studying Dart and focused on obtaining my degree;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
-- 🥅 2023 Goals: Keep learning more.
+- 🥅 2024 Goals: Keep learning more.
 
 
 ### Languages and Tools:
