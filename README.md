@@ -18,3 +18,10 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+
+
+### Github stats
+
+<div align=center>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OtavioFSantos&theme=blueberry-duo&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>
