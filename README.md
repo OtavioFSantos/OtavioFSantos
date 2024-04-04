@@ -1,27 +1,19 @@
-## Hello there, I'm Otávio
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7c26b1&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C+I'm+Otávio" />
+</h1>
 
 - 🌱 I am currently studying Dart and focused on obtaining my degree;
 - ⚡ Fact about me: I love to draw and I'm a cat person;
 - 🥅 2024 Goals: Keep learning more.
 
+## Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,vue,nextjs,nodejs,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,dart,firebase,c,python,mysql,postgres,git" /><br>
+</div>
+<br>
 
-### Languages and Tools:
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-
-### Github stats
-
+## Github stats
 <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OtavioFSantos&theme=blueberry-duo&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OtavioFSantos&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
