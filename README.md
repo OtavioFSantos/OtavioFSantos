@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7c26b1&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C+I'm+Otávio" />
-</h1>
+</p>
 
 ## Languages and Tools
 <div align="center">
