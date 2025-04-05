@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7c26b1&center=true&vCenter=true&random=false&width=435&lines=Hello+there%2C+I'm+Otávio" />
 </h1>
 
-- 🌱 I am currently focused on gaining experience;
-- ⚡ Fact about me: I love to draw and I'm a cat person;
-
 ## Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,vue,nextjs,nodejs,html,css" /><br>
