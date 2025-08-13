@@ -10,7 +10,7 @@
 
 ## Github stats
 <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OtavioFSantos&theme=buefy-dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OtavioFSantos&theme=shadow-purple&hide_border=true&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 ## Contact me
