@@ -8,11 +8,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind,dart,firebase,c,python,mysql,postgres,git" /><br>
 </div>
 
-## Github stats
-<div align=center>
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OtavioFSantos&theme=shadow-purple&hide_border=true&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</div>
-
 ## Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/otaviofsantos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otaviofsantos" height="30" width="40" /></a>
